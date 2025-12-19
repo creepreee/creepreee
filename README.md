@@ -103,8 +103,9 @@ I don’t just want systems to work — I want to **know why** and **push the li
 
 > **I LOVE CHEETAHS♥️**
 > 
-> Fun fact: cheetahs are actually closely related to house cats than lions. cheetahs are categorized in acinonyx in felinae subfamily of cats while lions are categorized in panthera group. infact domestic cats do also reside in felinae so it means that both acinonyx and domestic cats are very much related. cheets is the biggest among small cats and hence are not furious to humans at all. they are friendly and soo lovely 😍 ♥️
+> Fun fact: cheetahs are actually closely related to house cats than lions. cheetahs are categorized in acinonyx in felinae subfamily of cats while lions are categorized in panthera group. infact domestic cats do also reside in felinae so it means that both acinonyx and domestic cats are very much related. cheetah is the biggest among small cats and hence are not furious to humans at all. they are friendly and soo lovely 😍 ♥️
 
+> fun fact: I have a cheetah but obviously it is just in the sanctuary so it cannot come here to my home. but i can play with him anytime i want. here is the short glimpse of my cheetah:
 
 
 

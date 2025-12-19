@@ -107,7 +107,7 @@ I don’t just want systems to work — I want to **know why** and **push the li
 
 > fun fact: I have a cheetah but obviously it is just in the sanctuary so it cannot come here to my home. but i can play with him anytime i want. here is the short glimpse of my cheetah:
 
-
+![ MY CHEETAH NAMED SWEETIE PIE](FB_IMG_1765896574811.jpg)
 
 
 

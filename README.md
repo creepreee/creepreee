@@ -93,14 +93,16 @@ I don’t just want systems to work — I want to **know why** and **push the li
 - Linux Kernel internals  
 - UEFI
 - Android system architecture  
-- Self-hosted networking solutions  
+- Self-hosted networking solutions
+- Oracle Apex
 
 ---
 
 > “I break systems to understand them, then rebuild them cleaner, faster, and smarter.”  
 > — **Creepreee**
 
-> ** I LOVE CHEETAHS ♥️**
+> **I LOVE CHEETAHS♥️**
+> 
 > Fun fact: cheetahs are actually closely related to house cats than lions. cheetahs are categorized in acinonyx in felinae subfamily of cats while lions are categorized in panthera group. infact domestic cats do also reside in felinae so it means that both acinonyx and domestic cats are very much related. cheets is the biggest among small cats and hence are not furious to humans at all. they are friendly and soo lovely 😍 ♥️
 
 

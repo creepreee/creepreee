@@ -58,7 +58,7 @@ I don’t just want systems to work — I want to **know why** and **push the li
    -more to do
 
 5. **ORACLE APEX**
-   -making web apps with oracle apex (SQL SELECT STATEMENTS USED ONLY. NO PL/SQL rn)
+   -making web apps with oracle apex
 
 6. **UEFI AND ITS PROCESSES**
    - learning how it works and how different phases difder from each other

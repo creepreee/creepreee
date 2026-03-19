@@ -23,6 +23,8 @@ a curious mind who loves **breaking systems to understand them**, then rebuildin
   - HP envy leap motion 17 (Inel Me debloated, gooned nvram flash decriptors. time to flush the hell out of stock UEFI)
 - **Self-hosted E bussiness/commerce stores for entrepreneurs**
   ** My own bussiness Hostmerce **
+  ** and my own running store**
+  luxyrist.com
   
 **Understanding technincal and functional sides of ERP softwares like SAP**
    -MM module done
@@ -63,14 +65,14 @@ I don’t just want systems to work.I want to **know why** and **push the limits
 ---
 
 ## Devices I ~~Play~~ F**k With
-
-| Device        | Status                      |
-|---------------|-----------------------------|
+__________________________________________________________________
+| Device        | Status                                         |
+|---------------|------------------------------------------------|
 | Nokia 7.2     | Bricked (I actually farted its fartitions lol) |
-| Samsung A52q  | Ubuntu Touch porting|
-| Xbox 360      | fried motherboard while modding |
-| Hp envy 17    | gooning with its UEFI :)    |
-
+| Samsung A52q  | Ubuntu Touch porting                           |
+| Xbox 360      | fried motherboard while modding                |
+| Hp envy 17    | gooning with its UEFI :)                       |
+------------------------------------------------------------------
 ---
 
 
